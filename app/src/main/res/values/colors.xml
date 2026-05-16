@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#C8A882</color>
+    <color name="primary_dark">#B8926A</color>
+    <color name="secondary">#A8B89A</color>
+
+    <color name="background_light">#FAF7F2</color>
+    <color name="surface_light">#F2EDE4</color>
+
+    <color name="background_dark">#1E1B18</color>
+    <color name="surface_dark">#2A2520</color>
+
+    <color name="text_primary_light">#3D3530</color>
+    <color name="text_secondary_light">#7A6F66</color>
+
+    <color name="text_primary_dark">#EDE8E0</color>
+    <color name="text_secondary_dark">#B0A899</color>
+
+    <color name="accent">#D4A574</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_dark">#1E1B18</color>
+
+    <color name="error">#B00020</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="shimmer_base">#E0D9CF</color>
+    <color name="shimmer_highlight">#F2EDE4</color>
+    <color name="offline_banner">#D4A574</color>
 </resources>

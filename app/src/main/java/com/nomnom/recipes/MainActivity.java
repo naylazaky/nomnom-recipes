@@ -1,4 +1,4 @@
-package com.example.nomnom;
+package com.nomnom.recipes;
 
 import android.os.Bundle;
 

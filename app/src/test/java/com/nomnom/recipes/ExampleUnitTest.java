@@ -1,4 +1,4 @@
-package com.example.nomnom;
+package com.recipes.nomnom;
 
 import org.junit.Test;
 

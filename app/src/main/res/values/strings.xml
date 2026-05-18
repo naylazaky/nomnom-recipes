@@ -47,4 +47,6 @@
     <string name="error_no_connection_desc">Periksa koneksi kamu dan coba lagi</string>
     <string name="error_load_failed">Gagal memuat data</string>
     <string name="error_load_failed_desc">Terjadi kesalahan, silakan coba lagi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
